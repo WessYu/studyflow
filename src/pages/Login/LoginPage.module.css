@@ -1,0 +1,17 @@
+.wrap {
+  min-height: calc(100vh - 120px);
+  display: grid;
+  place-items: center;
+}
+
+.form {
+  display: grid;
+  gap: 12px;
+  max-width: 520px;
+}
+
+.tip {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.45;
+}

@@ -1,0 +1,15 @@
+.badge {
+  display: inline-flex; align-items: center;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  font-size: 12px;
+  color: var(--muted);
+  background: var(--panel);
+  white-space: nowrap;
+}
+
+.good { background: color-mix(in srgb, var(--good) 18%, var(--panel)); border-color: color-mix(in srgb, var(--good) 35%, var(--border)); }
+.warn { background: color-mix(in srgb, var(--warn) 18%, var(--panel)); border-color: color-mix(in srgb, var(--warn) 35%, var(--border)); }
+.bad  { background: color-mix(in srgb, var(--danger) 18%, var(--panel)); border-color: color-mix(in srgb, var(--danger) 35%, var(--border)); }
+.neutral {}

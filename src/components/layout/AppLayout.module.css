@@ -1,0 +1,30 @@
+.shell { min-height: 100vh; display: grid; grid-template-rows: auto 1fr auto; }
+
+.header {
+  position: sticky; top: 0; z-index: 10;
+  backdrop-filter: blur(12px);
+  background: color-mix(in srgb, var(--bg) 65%, transparent);
+  border-bottom: 1px solid var(--border);
+  padding: 18px 20px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+
+.brand { display: flex; align-items: center; gap: 12px; }
+
+.logo {
+  width: 42px; height: 42px; border-radius: 14px;
+  display: grid; place-items: center;
+  background: linear-gradient(135deg, rgba(124,92,255,0.9), rgba(124,92,255,0.35));
+  box-shadow: var(--shadow);
+  font-weight: 800;
+}
+
+.name { font-weight: 800; letter-spacing: 0.3px; }
+.tag { font-size: 13px; color: var(--muted); margin-top: 2px; }
+
+.actions { display: flex; align-items: center; gap: 10px; }
+
+.main { padding: 22px 20px 30px; }
+.container { max-width: 1050px; margin: 0 auto; }
+
+.footer { padding: 14px 20px; color: var(--muted); border-top: 1px solid var(--border); font-size: 13px; }
