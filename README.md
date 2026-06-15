@@ -71,6 +71,17 @@ http://localhost:5173
 
 ---
 
+## Outros projetos
+
+- [Portfólio Front-end](https://github.com/WessYu/Portfolio---React)
+- [Vinícola Serra Dourada](https://github.com/WessYu/vinicola-serra-dourada)
+- [Nocturna Atelier](https://github.com/WessYu/Nocturna-Atelier)
+- [Travelgram](https://github.com/WessYu/Travelgram)
+- [Turismo](https://github.com/WessYu/Turismo)
+- [Landing Page](https://github.com/WessYu/landing-page)
+
+---
+
 ## Autor
 
 Desenvolvido por **Wesley Cruz**.
