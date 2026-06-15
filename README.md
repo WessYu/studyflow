@@ -78,7 +78,6 @@ http://localhost:5173
 - [Nocturna Atelier](https://github.com/WessYu/Nocturna-Atelier)
 - [Travelgram](https://github.com/WessYu/Travelgram)
 - [Turismo](https://github.com/WessYu/Turismo)
-- [Landing Page](https://github.com/WessYu/landing-page)
 
 ---
 
